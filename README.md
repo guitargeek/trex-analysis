@@ -4,6 +4,8 @@
 
 Presentation on data analysis for experimental physics in the experimental classes of École polytechnique.
 
+## Link to Slides
+
 You can find the [reveal.js](https://github.com/hakimel/reveal.js/) slides here:
 
 * [Trex Data Analysis Tutorial](https://rembserj.web.cern.ch/rembserj/slides/200306_trex_analysis/reveal.js/TrexAnalysis.slides.html#/)
@@ -12,8 +14,6 @@ You can find the [reveal.js](https://github.com/hakimel/reveal.js/) slides here:
 ## Instructions
 
 The [notebook in this repository](TrexAnalysis.ipynb) contains the notebook which was presented in the form of slides in the introduction to data analysis with Python. You can also run this notebook in the browser by clicking the "launch binder" button above, or just dowload it and open it on your laptop with [Jupyter Notebook](https://jupyter.org/) (requires Python installation).
-
-You can find the slides in HTML format [following this link](https://rembserj.web.cern.ch/rembserj/slides/190405_trex_analysis/reveal.js).
 
 ### How to work on these slides
 
